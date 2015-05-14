@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Colson Brooks</title>
+    <style>
+    body{background: rgb(50,57,59); font-size: 18px; margin: 0 0 0 0; border-left: 5px dashed rgb(10,10,10); border-right:5px dashed rgb(10,10,10);
+      border}
+      
+      #colson {text-align: center;}
+      .link{color: rgb(150,190,100);}
+      #div {border-left:7px double rgb(10,10,10); border-right: 7px double rgb(10,10,10);
+        border-top: 3px solid rgb(10,10,10);
+            width: 500px; margin: auto; padding:10px; background: rgb(0,80,90);} 
+       .table-of-contents {
+        position: fixed; top: 45px; right:21%; color: rgb(0,133,135);}
+      .contents {position: fixed; top:15px;right: 22%; color: rgb(0,153,135); }
+      #me-pic { padding-left:20px; padding-top: 70px;}
+      #footnote {background: rgb(10,10,10); color: rgb(200,200,200); margin-bottom: 0px; margin-top: 0px;
+      text-align: center;}
+    </style>
+  </head>
+  <body>
+    <div id="div">
+      <h1 id="colson"> Colson Brooks</h1>
+      <h3 class="contents">Contents</h3>
+      <div class="table-of-contents">
+        <ul>
+          <li><a href="#introduction" class="link">Introduction</a></li>
+          <li><a href="#family" class="link">Family</a></li>
+          <li><a href="#early-life" class="link">Early Life</a></li>
+          <li><a href="#schooling" class="link">Schooling</a></li>
+          <li><a href="#hobbies" class="link">Hobbies</a></li>
+        </ul>
+      </div>
+      <img id="me-pic" height:="208px" ;alt="Picture of me in woods" src="file:///C:/Users/Dennis%20Brooks/Pictures/Colsonphoto.jpg"
+
+        align="right" width="159px">
+      <table>
+        <thead>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <h3 id="introduction">&gt; Introduction</h3>
+              Hi, my name is Colson Brooks. I am an eighth grade student at the
+              Christian Educational Consortium in Louisville, Kentucky. The main
+              reason that I made this webpage was so that I could keep track of
+              and use the programming I was learning. But it is also a good
+              project that I can show others and a good way to keep track of my
+              life. </td>
+          </tr>
+        </tbody>
+      </table>
+      <h3 id="family">&gt; Family</h3>
+      <p> I am the 4th and last biological child in my family. My oldest sibling
+        is my sister Kayli who is 22 and attends the University of Louisville.
+        My next oldest sibling is my brother Connor who is 20 and attends
+        Western Kentucky University. My only other biological sibling is my
+        brother Collier who is 17 and attends CEC with me. My family also has
+        two foster babies who are one and two. They are super cute by the way.</p>
+      <h3 id="early-life">&gt; Early Life</h3>
+      <p> On September 6, 2000, I was born in the small town on Somerset,
+        Kentucky. My family soon moved to White House, Tennessee when I was
+        three months old. When I was two years old my family moved about an hour
+        south of Louisville in a small town named Rineyville, KY. We stayed
+        there until I was four. Then we moved to Louisville, KY where I have
+        lived for the last ten years and still live today.</p>
+      <h3 id="schooling">&gt;Schooling</h3>
+      <p>For my entire life I have been home-schooled. However I have attended
+        various co-ops. The main co-op that I attended during elementary school
+        years was cross academy. I attended Cross academy for all of my
+        elementary school from Kindergarten until I left after my 3rd grade
+        year. For my 4th grade year I went to the co-op called<a class="link" href="https://groups.yahoo.com/neo/groups/woodlandenrichment/info"
+
+          target="_blank"> Woodland Enrichment Academy.</a> During my 5th and
+        6th grade years I attended part-time at the<a class="link" href="http://www.thelatinschool.org/"
+
+          target="_blank"> Highlands Latin Academy</a> For 6th grade up until at
+        least 9th grade (but probably until I graduate) I have attended the <a
+
+          class="link" href="http://www.christianconsortium.org/" target="_blank">Christian
+          Educational Consortium</a> (CEC). CEC meets on Tuesdays and Wednesdays
+        and offers all classes that are required to graduate. A student can
+        choose to take all of their class at CEC, or they can take just one
+        class and take the rest at home. Both of my older siblings that are in
+        college graduated from CEC. CEC is the only of the part-time schools
+        that I have been to that feels like a real-school environment.</p>
+      <h3 id="hobbies">Hobbies</h3>
+      <p> I have several hobbies that I like to do in my down time. Obviously,
+        one of my hobbies is programming. I enjoy learning how to program and
+        that is pretty much the main reason I made this page. I also enjoy
+        playing sports. The main sport that I play is soccer. I play goalie for
+        my school's soccer team. I also enjoy playing tennis. Tennis and soccer
+        the only sports that I have played really competitively, however I do
+        enjoy playing a lot of sports just for fun. I am on my school's track
+        team. I also sometimes play pick-up basketball with my brother and some
+        of my friends.</p>
+    </div>
+    <p id="footnote"> Contact me at: Cmbrooks721@gmail.com with questions or
+      tips </p>
+  </body>
+</html>
